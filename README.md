@@ -1,6 +1,6 @@
-# notech
+# Notech
 
-A new Flutter project.
+A new Flutter project. Designed for understanding Dart and Flatter language concepts. The program itself is a browser page on localhost where you can save random words to your favorites
 
 ## Getting Started
 
